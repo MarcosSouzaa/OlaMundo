@@ -19,3 +19,4 @@ NUM | NOME | NOTA
 2 | José | 10
 3 | Maria | 9,0
 
+😅 colocando emojis
